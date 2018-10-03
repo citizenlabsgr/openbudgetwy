@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/citizenlabsgr/openbudgetgr.svg?branch=master)](https://travis-ci.org/citizenlabsgr/openbudgetgr)
+
 
 # Open Budget Wyoming
 
@@ -19,7 +19,7 @@ The Open Budget website is built using Node.js. During development the project i
 
 **Data:**
 
-City of Wyoming, [MI Data Portal](https://www.grandrapidsmi.gov/GRData)
+City of Wyoming
 
 - FY2019 Data: Data file will be linked from here when available.
 
