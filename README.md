@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/citizenlabsgr/openbudgetgr.svg?label=ready&title=Ready)](http://waffle.io/citizenlabsgr/openbudgetgr)
+[![Build Status](https://travis-ci.org/citizenlabsgr/openbudgetwy.svg?branch=master)](https://travis-ci.org/citizenlabsgr/openbudgetwy)
 
 
 # Open Budget Wyoming
