@@ -1,4 +1,4 @@
-# Open Budget: Grand Rapids
+# Open Budget: Wyoming
 
 ## 1. Develop Locally
 
@@ -70,10 +70,12 @@ This project is coded with:
 
 1. The Compare page is mainly powered by a React application. The source files are in `_src/js/compare/` and are are bundled with [Webpack](https://webpack.js.org/).
 1. When developing on the Compare page, run `yarn` to install all the necessary node dependencies and `yarn run watch` to watch the source files for changes and rebuild the asset bundles accordingly.
-1. The Compare page communicates with a separately maintained API to fetch its data. Documentation for that API can be found [in our wiki](https://github.com/openoakland/openbudgetoakland/wiki/API-Documentation).
+1. The Compare page communicates with a separately maintained API to fetch its data. Documentation for that API can be found [on the Open Oakland wiki](https://github.com/openoakland/openbudgetoakland/wiki/API-Documentation).
 
 ## 6. Creating/Updating Budget Timeline
 The timeline is made using [TimelineJS](http://timeline.knightlab.com), an open-source tool that enables anyone to build visually rich, interactive timelines. Beginners can create a timeline using nothing more than a Google spreadsheet, like the one we used for the Timeline above. Experts can use their JSON skills to create custom installations, while keeping TimelineJS's core functionality.
+
+**A new timeline Google spreadsheet will be developed for the City of Wyoming.**
 
 The Google spreadsheet for the current [Budget Timeline used for Grand Rapids](https://grbudget.citizenlabs.org/budget-process.html) is a Citizen Labs' shared Google Sheet, can be [viewed here.](https://docs.google.com/spreadsheets/d/1jL2_7lJSgbLchJfAGWrST16ZxKe5Z-vbOfrAu14QyG8/edit?usp=sharing)
 
