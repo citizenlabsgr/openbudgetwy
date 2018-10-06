@@ -29,6 +29,7 @@ City of Wyoming
 * Browse our help wanted issues. See if there is anything that interests you.
 * Core maintainers and project guides are responsible for reviewing and merging all pull requests. In order to prevent frustrations with your first PR we recommend you reach out to our core maintainers who can help you through your first PR.
 * Updates to documentation or readme are greatly appreciated and make for a great first PR. They do not need to be discussed in advance and will be merged as soon as possible.
+* Specific instructions for [installing and local development of site and visualizations.](https://github.com/citizenlabsgr/openbudgetwy/blob/master/CONTRIBUTING.md)
 
 
 ### Skills
