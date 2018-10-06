@@ -23,7 +23,7 @@ yarn global add harp
 ```
 
 ### Create Development Branch
-- Create a development branch from the Citizen Labs master for the [Open Budget project.](https://github.com/citizenlabsgr/openbudgetgr).
+- Create a development branch from the Citizen Labs master for the [Open Budget project.](https://github.com/citizenlabsgr/openbudgetwy).
 
 ```
 # To start the Harp server, cd to the _src directory
@@ -77,7 +77,7 @@ The timeline is made using [TimelineJS](http://timeline.knightlab.com), an open-
 
 **A new timeline Google spreadsheet will be developed for the City of Wyoming.**
 
-The Google spreadsheet for the current [Budget Timeline used for Grand Rapids](https://grbudget.citizenlabs.org/budget-process.html) is a Citizen Labs' shared Google Sheet, can be [viewed here.](https://docs.google.com/spreadsheets/d/1jL2_7lJSgbLchJfAGWrST16ZxKe5Z-vbOfrAu14QyG8/edit?usp=sharing)
+The Google spreadsheet is currently showing information for Grand Rapids, but this file will be used for the Wyoming Budget timelin. It is being driven by a Citizen Labs' shared Google Sheet, that can be [viewed here.](https://docs.google.com/spreadsheets/d/1G0I3Jh6Pfep7g0pM_ds65i5nBl1U61J9HPtBordykSg/edit?usp=sharing)
 
 ## 7. Publishing Changes
 Make changes on your personal fork or branch. If you have repo access, and your changes are ready for review, you can merge them into the development branch and publish to the staging site for review. You can also publish changes to your own server and merge to development afterwards.
