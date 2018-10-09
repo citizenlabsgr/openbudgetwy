@@ -1,48 +1,48 @@
 {
   "globals": {
-    "title": "Open Budget: Grand Rapids",
-    "uri": "http://openbudgetogr.org"
+    "title": "Open Budget: Wyoming",
+    "uri": "https://wybudget.citizenlabs.org"
   },
 
   "index": {
-    "title": "Open Budget: Grand Rapids",
+    "title": "Open Budget: Wyoming",
     "slug": "home"
   },
 
   "what-we-do": {
-    "title": "What and How - Open Budget: Grand Rapids"
+    "title": "What and How - Open Budget: Wyoming"
   },
 
   "who-we-are": {
-    "title": "Who We Are - Open Budget: Grand Rapids"
+    "title": "Who We Are - Open Budget: Wyoming"
   },
 
   "news": {
-    "title": "News - Open Budget: Grand Rapids"
+    "title": "News - Open Budget: Wyoming"
   },
 
   "contact": {
-    "title": "Contact Us - Open Budget: Grand Rapids"
+    "title": "Contact Us - Open Budget: Wyoming"
   },
 
   "discuss": {
-    "title": "Discuss - Open Budget: Grand Rapids"
+    "title": "Discuss - Open Budget: Wyoming"
   },
 
   "feedback": {
-    "title": "Feedback - Open Budget: Grand Rapids"
+    "title": "Feedback - Open Budget: Wyoming"
   },
 
   "grandrapids-budget-101": {
-    "title": "Budget 101 - Open Budget: Grand Rapids"
+    "title": "Budget 101 - Open Budget: Wyoming"
   },
 
   "tools-projects": {
-    "title": "Tools & Projects - Open Budget: Grand Rapids"
+    "title": "Tools & Projects - Open Budget: Wyoming"
   },
 
   "budget-visuals": {
-    "title": "Budget Visualizations - Open Budget: Grand Rapids"
+    "title": "Budget Visualizations - Open Budget: Wyoming"
   },
 
 
@@ -112,6 +112,6 @@
   },
 
   "compare": {
-    "title": "Compare Budgets - Open Budget: Grand Rapids"
+    "title": "Compare Budgets - Open Budget: Wyoming"
   }
 }
