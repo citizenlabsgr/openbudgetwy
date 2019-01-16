@@ -9,7 +9,7 @@
 **Project Description:**
 We are developing a way to better understand the budget process for the City of Wyoming. We will borrow much of what we have learned and developed from a similar project with the City of Grand Rapids. [openbudgetgr.org](http://openbudgetgr.org).
 
-Our Open Budget project intends to promotes a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Wyoming currently works and how it should in the future.
+Our Open Budget project intends to promote a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Wyoming currently works and how it should in the future.
 
 The Open Budget website is built using Node.js. During development the project is run locally on a computer. After acquiring and formatting the budget data properly you publish the website using Harp to compile the static files necessary for a Github posted website.
 
