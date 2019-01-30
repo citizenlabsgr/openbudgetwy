@@ -1,0 +1,15 @@
+extends templates/flow-template.jade
+
+block title
+  h2 Cash Flow
+
+block datasource
+  h6
+    | Data source:&nbsp;
+    a(href = "https://data.world/citizenlabs/city-of-wyoming") City of Wyoming | Citizen Labs Data Collaborative
+
+block get_datafiles
+  script(type="text/javascript").
+    var datafiles = [
+      {filename: "FY19__final.csv"},
+    ];

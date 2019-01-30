@@ -52,13 +52,14 @@ This project is coded with:
 
 1. Flow pages are built off a template; copy one of the `*-budget-flow.jade` pages and update the content blocks as necessary.
 1. Data files must be placed in the `data/flow` directory. Follow the naming convention seen there or your files won't load properly. **Note: Two underscores required in data file name, ex: FY17__final.csv.** You also will need to point your page at the appropriate files as seen in the `get_datafiles` content block.
-1. the following columns are required in your datafile and their names should be normalized as seen here. Other columns should be removed to minimize the data download.
+1. The following columns are required in your datafile and their names should be normalized as seen here. Other columns should be removed to minimize the data download.
     - budget_year
     - department
     - fund_code
     - account_type (this should be the Expense/Revenue column, if there are duplicate names)
     - account_category
     - amount
+1. Disqus comments have been removed from current template `templates/flow-template.jade` and `2019-final-budget-flow.jade.` To use Disqus comments use `templates/flow-template-WITH-COMMENTS.jade` and `2017-final-budget-flow.jade.`
 
 ## 4. Instructions for "Treemap" Diagram Pages
 
