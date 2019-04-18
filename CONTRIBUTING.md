@@ -52,6 +52,7 @@ This project is coded with:
 
 1. Flow pages are built off a template; copy one of the `*-budget-flow.jade` pages and update the content blocks as necessary.
 1. Data files must be placed in the `data/flow` directory. Follow the naming convention seen there or your files won't load properly. **Note: Two underscores required in data file name, ex: FY17__final.csv.** You also will need to point your page at the appropriate files as seen in the `get_datafiles` content block.
+1. Make sure that dollar amounts are in whole dollars (no decimals).
 1. The following columns are required in your datafile and their names should be normalized as seen here. Other columns should be removed to minimize the data download.
     - budget_year
     - department
@@ -65,6 +66,7 @@ This project is coded with:
 
 1. Treemap pages are built off a template; copy one of the `*-budget-tree.jade` pages and update the content blocks as necessary.
 1. Instructions for generating the necessary data files can be found [here](_treemap/README.md). Add them to the `data/tree/` directory following the naming convention seen in the existing files.
+1. Make sure that dollar amounts are in whole dollars (no decimals).
 1. Update the `datafiles` content block with the appropriate metadata and file path for the data files you generated.
 
 ## 5. Instructions for "Compare" page

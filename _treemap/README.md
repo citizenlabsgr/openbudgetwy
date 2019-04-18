@@ -7,7 +7,7 @@ Creating Treemap Data Files
 
 To create the treemap data files perform the following steps:
 
-1. Save the budget in a commma-seperated-value (CSV) format.
+1. Save the budget in a commma-seperated-value (CSV) format. CONFIRM that dollar amounts are in whole dollars (no decimals).
 	> File > Save As...
 2. Create or edit a configuration file.
 	> To view an existing configuration file, open the config.json
