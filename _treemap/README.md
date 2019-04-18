@@ -55,7 +55,7 @@ Appendix
 The configuration file controls how the budget data is parsed. It tells the
 parser the header names, how to group data in the budget, the hierarchy
 ordering, and the output filenames. Generally, you'll only have to update the
-years if you're updating an existing configuration file for consitent budget format.
+years if you're updating an existing configuration file for consistent budget format.
 
 Example:
 
