@@ -23,7 +23,7 @@ The Open Budget website is built using Node.js. During development the project i
 
 City of Wyoming
 
-- [FY2019 Data}(https://github.com/citizenlabsgr/openbudgetwy/blob/master/data-files/2019/raw/CitizenLabExtract.csv)
+- [FY2019 Data](https://github.com/citizenlabsgr/openbudgetwy/blob/master/data-files/2019/raw/CitizenLabExtract.csv)
 
 ### Getting started:
 * Browse our help wanted issues. See if there is anything that interests you.
