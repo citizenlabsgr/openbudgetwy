@@ -8,7 +8,7 @@ This site is built on Harp using Node.js. That means you can run it locally with
 
 What you'll need:
 
--  [Node](http://nodejs.org/download/)
+-  [Node](https://nodejs.org/en/)
 -  [Yarn](https://yarnpkg.com/en/)
 -  [Harp](http://harpjs.com/)
 
