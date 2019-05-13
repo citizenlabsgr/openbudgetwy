@@ -1,4 +1,4 @@
-[![Waffle.io - Issues in progress](https://badge.waffle.io/citizenlabsgr/openbudgetwy.png?label=in%20progress&title=In%20Progress)](http://waffle.io/citizenlabsgr/openbudgetwy)
+[Project Status & Tasks](https://github.com/citizenlabsgr/openbudgetwy/projects/1)
 [![Build Status](https://travis-ci.org/citizenlabsgr/openbudgetwy.svg?branch=master)](https://travis-ci.org/citizenlabsgr/openbudgetwy)
 
 
