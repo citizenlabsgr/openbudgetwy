@@ -1,4 +1,4 @@
-[Project Status & Tasks](https://github.com/citizenlabsgr/openbudgetwy/projects/1)
+[Project Status & Tasks](https://github.com/citizenlabsgr/openbudgetwy/projects/1) | 
 [![Build Status](https://travis-ci.org/citizenlabsgr/openbudgetwy.svg?branch=master)](https://travis-ci.org/citizenlabsgr/openbudgetwy)
 
 
