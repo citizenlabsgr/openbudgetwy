@@ -54,7 +54,7 @@ This project is coded with:
 1. The following columns are required in your datafile and their names should be normalized as seen here. Other columns should be removed to minimize the data download.
     - budget_year
     - department
-    - fund_code
+    - fund_code (an additional 0 was added to end of Wyoming's fund code to properly build visualization)
     - account_type (this should be the Expense/Revenue column, if there are duplicate names)
     - account_category
     - amount
