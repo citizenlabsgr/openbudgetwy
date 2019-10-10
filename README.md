@@ -1,4 +1,4 @@
-[Project Status & Tasks](https://github.com/citizenlabsgr/openbudgetwy/projects/1) | 
+[Project Task Board](https://github.com/citizenlabsgr/openbudgetwy/projects/1) |
 [![Build Status](https://travis-ci.org/citizenlabsgr/openbudgetwy.svg?branch=master)](https://travis-ci.org/citizenlabsgr/openbudgetwy)
 
 
@@ -7,7 +7,7 @@
 **Slack:** #project-openbudgetwy
 
 **Project Description:**
-We are developing a way to better understand the budget process for the City of Wyoming. We will borrow much of what we have learned and developed from a similar project with the City of Grand Rapids. [openbudgetgr.org](http://openbudgetgr.org).
+We are developing a way to better understand the budget process for the City of Wyoming.
 
 Our Open Budget project intends to promote a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Wyoming currently works and how it should in the future.
 
@@ -19,11 +19,13 @@ The Open Budget website is built using Node.js. During development the project i
 * [@allen](https://citizenlabs.slack.com/messages/@allen/)
 * Jace B
 
-**Data:**
+**Original Data Files:**
 
 City of Wyoming
 
-- [FY2019 Data](https://github.com/citizenlabsgr/openbudgetwy/blob/master/data-files/2019/raw/CitizenLabExtract.csv)
+- [All data files](https://github.com/citizenlabsgr/openbudgetwy/tree/master/data-files)
+- [FY2019 Data](https://github.com/citizenlabsgr/openbudgetwy/blob/master/data-files/2019/raw/CitizenLabExtract2019Update.xlsx)
+- [FY2020 Data](https://github.com/citizenlabsgr/openbudgetwy/blob/master/data-files/2020/raw/CitizenLabExtract2020Update.xlsx)
 
 ### Getting started:
 * Browse our help wanted issues. See if there is anything that interests you.
