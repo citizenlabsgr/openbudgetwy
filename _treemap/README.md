@@ -10,7 +10,7 @@ To create the treemap data files perform the following steps:
 1. Save the budget in a commma-seperated-value (CSV) format. CONFIRM that dollar amounts are in whole dollars (no decimals).
 	> File > Save As...
 2. Create or edit a configuration file.
-	> To view an existing configuration file, open the config.json
+	> To view an existing configuration file, open the _treemap/config.json
 
 	> The configuration file controls how the budget data is parsed. It tells the parser the header names, how to group data in the budget, the hierarchy ordering, and the output filenames. Generally, you'll only have to update the years if you're updating an existing configuration file for consistent budget format.
 
@@ -18,7 +18,7 @@ To create the treemap data files perform the following steps:
 
 3. Place the CSV file in the "_treemap" directory.
 
-4. Run the data processing [python](https://www.python.org/) script
+4. Go to "_treemap" directory and run the data processing [python](https://www.python.org/) script
 	> In the terminal:
 
 		$ python treemap_process_data.py config.json budget.csv
