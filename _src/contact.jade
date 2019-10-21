@@ -1,0 +1,37 @@
+
+
+
+.container
+  .row
+    .col-md-8
+      div
+        h2.subheader Get in touch
+        p <strong>Open Budget: Wyoming</strong> is an open-source project by Citizen Labs to help citizens better understand spending and budget process by the City of Wyoming. We can't wait to hear from you.
+        p Drop us a line at: hello [@] citizenlabs.org
+
+        p
+        | Use our
+        a(href='feedback.html')  contact form.
+
+        p
+          a(href='https://www.citizenlabsorg')
+            | www.citizenlabs.org
+
+        p
+          a(href='https://www.facebook.com/citizenlabs')
+            | facebook.com/citizenlabs
+
+            a
+        //
+           Begin MailChimp Signup Form
+        #mc_embed_signup
+          form#mc-embedded-subscribe-form.validate(action='//friendlycode.us5.list-manage.com/subscribe/post?u=3b39bb076496823d483db61ed&amp;id=3eee5aa122', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='novalidate')
+            .form-group
+              label(for='mce-EMAIL') Subscribe to our mailing list:
+              .row
+                .col-md-6
+                  input#mce-EMAIL.email.form-control(type='email', value='', name='EMAIL', placeholder='Email', required='required')
+
+            input#mc-embedded-subscribe.btn.btn-primary(type='submit', value='Subscribe', name='subscribe')
+        //
+          End mc_embed_signup
