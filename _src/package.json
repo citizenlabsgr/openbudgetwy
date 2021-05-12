@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "axios": "^0.15.3",
-    "chart.js": "^2.3",
+    "chart.js": "^2.9",
     "d3-array": "^1.0.2",
     "d3-collection": "^1.0.2",
     "d3-format": "^1.0.2",
